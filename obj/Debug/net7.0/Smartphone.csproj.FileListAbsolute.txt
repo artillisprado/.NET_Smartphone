@@ -1,0 +1,14 @@
+C:\Users\artillis.prado\source\repos\Smartphone\bin\Debug\net7.0\Smartphone.exe
+C:\Users\artillis.prado\source\repos\Smartphone\bin\Debug\net7.0\Smartphone.deps.json
+C:\Users\artillis.prado\source\repos\Smartphone\bin\Debug\net7.0\Smartphone.runtimeconfig.json
+C:\Users\artillis.prado\source\repos\Smartphone\bin\Debug\net7.0\Smartphone.dll
+C:\Users\artillis.prado\source\repos\Smartphone\bin\Debug\net7.0\Smartphone.pdb
+C:\Users\artillis.prado\source\repos\Smartphone\obj\Debug\net7.0\Smartphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artillis.prado\source\repos\Smartphone\obj\Debug\net7.0\Smartphone.AssemblyInfoInputs.cache
+C:\Users\artillis.prado\source\repos\Smartphone\obj\Debug\net7.0\Smartphone.AssemblyInfo.cs
+C:\Users\artillis.prado\source\repos\Smartphone\obj\Debug\net7.0\Smartphone.csproj.CoreCompileInputs.cache
+C:\Users\artillis.prado\source\repos\Smartphone\obj\Debug\net7.0\Smartphone.dll
+C:\Users\artillis.prado\source\repos\Smartphone\obj\Debug\net7.0\refint\Smartphone.dll
+C:\Users\artillis.prado\source\repos\Smartphone\obj\Debug\net7.0\Smartphone.pdb
+C:\Users\artillis.prado\source\repos\Smartphone\obj\Debug\net7.0\Smartphone.genruntimeconfig.cache
+C:\Users\artillis.prado\source\repos\Smartphone\obj\Debug\net7.0\ref\Smartphone.dll
