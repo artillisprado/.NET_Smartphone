@@ -19,12 +19,12 @@ class Nokia : Smartphone
 {
     public override void Ligar()
     {
-        Console.WriteLine("Nokia ligando...");
+        Console.WriteLine("Nokia ligando..."); //Ligando
     }
 
     public override void ReceberLigacao()
     {
-        Console.WriteLine("Nokia recebendo ligação...");
+        Console.WriteLine("Nokia recebendo ligação...");//Desligando
     }
 
     public override void InstalarAplicativo(string nome)
